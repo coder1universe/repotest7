@@ -1,2 +1,6 @@
 hiiiii
-byeeeeeeeee bye
+<<<<<<< HEAD
+byeeeeeeeee 
+=======
+byeeeeeeeee hellooo
+>>>>>>> fb
