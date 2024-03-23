@@ -1,6 +1,11 @@
 hiiiii
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 byeeeeeeeee 
 =======
 byeeeeeeeee hellooo
 >>>>>>> fb
+=======
+byeeeeeeeee hellooo
+smiley
+>>>>>>> Stashed changes
